@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+button {
+  background-color: aquamarine;
+}
+
+span {
+  color: aquamarine;
+}
+
+img {
+  width: 20%;
+}
